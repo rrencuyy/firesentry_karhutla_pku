@@ -83,8 +83,6 @@ const TITIK_ACUAN_KECAMATAN = {
 
 const URUTAN_RISIKO = { Rendah: 0, Sedang: 1, Tinggi: 2 };
 
-// Sama persis dengan ewsHitungRisiko() di assets/js/data.js — lihat catatan
-// "DUPLIKASI YANG PERLU DIJAGA" di atas file ini.
 function hitungRisiko(suhu, kelembapan, hotspot) {
   let skor = 0;
   if (suhu >= 35) skor += 2;
@@ -185,14 +183,31 @@ async function kirimTelegram(pesan) {
   return true;
 }
 
-function susunPesan(kecamatan, risikoBaru) {
+function susunPesan(kecamatan, risikoBaru, suhu, kelembapan, hotspot) {
   const emoji = risikoBaru === "Tinggi" ? "🔴" : "🟠";
+  const rekomendasi = risikoBaru === "Tinggi"
+    ? "Diperlukan peningkatan kesiapsiagaan dan pemantauan intensif."
+    : "Tingkatkan pemantauan dan kesiapsiagaan wilayah.";
+  const waktu = new Date().toLocaleString("id-ID", {
+    timeZone: "Asia/Jakarta",
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+  const LINK_DASHBOARD = "https://rrencuyy.github.io/firesentry_karhutla_pku/peringatan.html";
   return (
+    `${emoji} <b>STATUS ${risikoBaru.toUpperCase()}</b>\n` +
     `${emoji} <b>PERINGATAN DINI KARHUTLA</b>\n` +
     `Kecamatan: <b>${kecamatan}</b>\n` +
     `Status naik ke: <b>${risikoBaru}</b>\n` +
-    `Waktu: ${new Date().toLocaleString("id-ID", { timeZone: "Asia/Jakarta" })} WIB\n` +
-    `(Notifikasi otomatis dari pengecekan terjadwal — bukan dari dashboard.)`
+    `Suhu: ${suhu}°C\n` +
+    `Kelembapan: ${kelembapan}%\n` +
+    `Titik Panas: ${hotspot}\n` +
+    `Waktu: ${waktu} WIB\n` +
+    `${rekomendasi}\n\n` +
+    `🔗 Lihat detail: ${LINK_DASHBOARD}`
   );
 }
 
@@ -281,7 +296,7 @@ async function main() {
     console.log(`${kecamatan}: suhu=${cuaca.suhu} kelembapan=${cuaca.kelembapan} hotspot=${hotspot} -> ${risikoBaru}`);
 
     if (perluNotifikasi) {
-      const terkirim = await kirimTelegram(susunPesan(kecamatan, risikoBaru));
+      const terkirim = await kirimTelegram(susunPesan(kecamatan, risikoBaru, cuaca.suhu, cuaca.kelembapan, hotspot));
       if (terkirim) dinotifikasi.push(kecamatan);
     }
   }
