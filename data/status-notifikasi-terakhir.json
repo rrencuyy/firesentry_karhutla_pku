@@ -1,111 +1,111 @@
 {
   "Pekanbaru Kota": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
+    "suhu": 24,
+    "kelembapan": 97,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Tenayan Raya": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 96,
+    "suhu": 24,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Rumbai": {
     "risiko": "Rendah",
     "suhu": 25,
-    "kelembapan": 95,
+    "kelembapan": 97,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Rumbai Barat": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
+    "suhu": 24,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Rumbai Timur": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 96,
+    "suhu": 24,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Kulim": {
     "risiko": "Rendah",
-    "suhu": 25,
+    "suhu": 24,
     "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Bukit Raya": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 96,
+    "suhu": 24,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Marpoyan Damai": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Payung Sekaki": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 94,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Tuah Madani": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 97,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Binawidya": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Sukajadi": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Sail": {
-    "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
-    "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
-  },
-  "Lima Puluh": {
     "risiko": "Rendah",
     "suhu": 24,
     "kelembapan": 97,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Payung Sekaki": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 97,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Tuah Madani": {
+    "risiko": "Rendah",
+    "suhu": 24,
+    "kelembapan": 98,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Binawidya": {
+    "risiko": "Rendah",
+    "suhu": 24,
+    "kelembapan": 98,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Sukajadi": {
+    "risiko": "Rendah",
+    "suhu": 24,
+    "kelembapan": 98,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Sail": {
+    "risiko": "Rendah",
+    "suhu": 24,
+    "kelembapan": 98,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
+  },
+  "Lima Puluh": {
+    "risiko": "Rendah",
+    "suhu": 24,
+    "kelembapan": 98,
+    "hotspot": 0,
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "Senapelan": {
     "risiko": "Rendah",
-    "suhu": 25,
-    "kelembapan": 95,
+    "suhu": 24,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-09-18T16:04:01.451Z"
+    "waktuCek": "2026-09-18T17:04:24.449Z"
   },
   "_meta": {
-    "diperbaruiPada": "2026-09-18T16:04:01.451Z",
+    "diperbaruiPada": "2026-09-18T17:04:24.449Z",
     "sumber": "GitHub Actions terjadwal (BMKG + NASA FIRMS)",
     "kecamatanGagal": []
   }
