@@ -1,111 +1,111 @@
 {
   "Pekanbaru Kota": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Tenayan Raya": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Rumbai": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Rumbai Barat": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 97,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Rumbai Timur": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Kulim": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Bukit Raya": {
-    "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
-    "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
-  },
-  "Marpoyan Damai": {
     "risiko": "Rendah",
     "suhu": 25,
     "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Rumbai": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 90,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Rumbai Barat": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 91,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Rumbai Timur": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 91,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Kulim": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 91,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Bukit Raya": {
+    "risiko": "Rendah",
+    "suhu": 25,
+    "kelembapan": 90,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
+  },
+  "Marpoyan Damai": {
+    "risiko": "Rendah",
+    "suhu": 27,
+    "kelembapan": 83,
+    "hotspot": 0,
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Payung Sekaki": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Tuah Madani": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 91,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Binawidya": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 95,
+    "suhu": 25,
+    "kelembapan": 89,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Sukajadi": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Sail": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 95,
+    "suhu": 25,
+    "kelembapan": 89,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Lima Puluh": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "Senapelan": {
     "risiko": "Rendah",
-    "suhu": 24,
-    "kelembapan": 96,
+    "suhu": 25,
+    "kelembapan": 90,
     "hotspot": 0,
-    "waktuCek": "2026-09-28T23:04:10.756Z"
+    "waktuCek": "2026-09-29T00:06:17.654Z"
   },
   "_meta": {
-    "diperbaruiPada": "2026-09-28T23:04:10.756Z",
+    "diperbaruiPada": "2026-09-29T00:06:17.654Z",
     "sumber": "GitHub Actions terjadwal (BMKG + NASA FIRMS)",
     "kecamatanGagal": []
   }
