@@ -2,110 +2,110 @@
   "Pekanbaru Kota": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 73,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Tenayan Raya": {
     "risiko": "Rendah",
-    "suhu": 30,
-    "kelembapan": 72,
+    "suhu": 29,
+    "kelembapan": 74,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Rumbai": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 71,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Rumbai Barat": {
     "risiko": "Rendah",
-    "suhu": 30,
-    "kelembapan": 72,
+    "suhu": 31,
+    "kelembapan": 69,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Rumbai Timur": {
     "risiko": "Rendah",
-    "suhu": 30,
-    "kelembapan": 72,
+    "suhu": 29,
+    "kelembapan": 74,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Kulim": {
     "risiko": "Rendah",
-    "suhu": 30,
-    "kelembapan": 73,
+    "suhu": 29,
+    "kelembapan": 75,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Bukit Raya": {
     "risiko": "Rendah",
-    "suhu": 30,
-    "kelembapan": 73,
+    "suhu": 29,
+    "kelembapan": 74,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Marpoyan Damai": {
     "risiko": "Rendah",
     "suhu": 30,
     "kelembapan": 72,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Payung Sekaki": {
     "risiko": "Rendah",
     "suhu": 30,
     "kelembapan": 72,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Tuah Madani": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 73,
+    "kelembapan": 72,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Binawidya": {
     "risiko": "Rendah",
-    "suhu": 31,
+    "suhu": 30,
     "kelembapan": 71,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Sukajadi": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 73,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Sail": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 73,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Lima Puluh": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 73,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "Senapelan": {
     "risiko": "Rendah",
     "suhu": 30,
-    "kelembapan": 72,
+    "kelembapan": 73,
     "hotspot": 0,
-    "waktuCek": "2026-10-08T03:05:59.617Z"
+    "waktuCek": "2026-10-08T04:06:04.013Z"
   },
   "_meta": {
-    "diperbaruiPada": "2026-10-08T03:05:59.617Z",
+    "diperbaruiPada": "2026-10-08T04:06:04.013Z",
     "sumber": "GitHub Actions terjadwal (BMKG + NASA FIRMS)",
     "kecamatanGagal": []
   }
