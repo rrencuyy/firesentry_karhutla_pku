@@ -105,8 +105,24 @@
     "waktuCek": "2026-11-21T00:30:16.922Z"
   },
   "_meta": {
-    "diperbaruiPada": "2026-11-21T00:30:16.922Z",
+    "diperbaruiPada": "2026-11-21T07:52:06.792Z",
     "sumber": "GitHub Actions terjadwal (BMKG + NASA FIRMS)",
-    "kecamatanGagal": []
+    "kecamatanGagal": [
+      "Pekanbaru Kota",
+      "Tenayan Raya",
+      "Rumbai",
+      "Rumbai Barat",
+      "Rumbai Timur",
+      "Kulim",
+      "Bukit Raya",
+      "Marpoyan Damai",
+      "Payung Sekaki",
+      "Tuah Madani",
+      "Binawidya",
+      "Sukajadi",
+      "Sail",
+      "Lima Puluh",
+      "Senapelan"
+    ]
   }
 }
