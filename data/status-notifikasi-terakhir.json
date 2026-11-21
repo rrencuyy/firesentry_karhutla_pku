@@ -1,128 +1,112 @@
 {
   "Pekanbaru Kota": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Tenayan Raya": {
     "risiko": "Rendah",
     "suhu": 25,
-    "kelembapan": 96,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Rumbai": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Rumbai Barat": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 99,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Rumbai Timur": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 91,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Kulim": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 91,
+    "suhu": 25,
+    "kelembapan": 99,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Bukit Raya": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Marpoyan Damai": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 89,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Payung Sekaki": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 89,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Tuah Madani": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Binawidya": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 89,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Sukajadi": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Sail": {
     "risiko": "Rendah",
     "suhu": 25,
-    "kelembapan": 95,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Lima Puluh": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "Senapelan": {
     "risiko": "Rendah",
-    "suhu": 26,
-    "kelembapan": 90,
+    "suhu": 25,
+    "kelembapan": 98,
     "hotspot": 0,
-    "waktuCek": "2026-11-21T00:30:16.922Z"
+    "waktuCek": "2026-11-21T15:47:20.605Z"
   },
   "_meta": {
-    "diperbaruiPada": "2026-11-21T07:52:06.792Z",
+    "diperbaruiPada": "2026-11-21T15:47:20.605Z",
     "sumber": "GitHub Actions terjadwal (BMKG + NASA FIRMS)",
-    "kecamatanGagal": [
-      "Pekanbaru Kota",
-      "Tenayan Raya",
-      "Rumbai",
-      "Rumbai Barat",
-      "Rumbai Timur",
-      "Kulim",
-      "Bukit Raya",
-      "Marpoyan Damai",
-      "Payung Sekaki",
-      "Tuah Madani",
-      "Binawidya",
-      "Sukajadi",
-      "Sail",
-      "Lima Puluh",
-      "Senapelan"
-    ]
+    "kecamatanGagal": []
   }
 }
